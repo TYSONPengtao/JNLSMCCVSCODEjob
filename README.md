@@ -1,0 +1,2 @@
+# JNLSMCCVSCODEjob
+olny for JNLSMACC
